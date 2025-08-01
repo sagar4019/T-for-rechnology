@@ -1,0 +1,10 @@
+bxSlider
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="common/js/jquery.bxSlider.js"></script>
+<link rel="stylesheet" href="common/css/jquery.bxslider.css">
+<script>
+ $(document).ready(function(){
+   $('.bxslider').bxSlider();
+ });
+</script>

@@ -1,0 +1,17 @@
+https://veno.es/venobox/
+
+
+<link rel="stylesheet" href="common/venobox.css">
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="common/js/venobox.js"></script>
+
+<script>
+$(function() {
+    $('.venobox').venobox({
+        infinigall: true,
+        numeratio: true,
+    });
+});
+</script>
